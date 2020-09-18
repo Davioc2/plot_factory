@@ -22,7 +22,7 @@ sBPIServer <- function(id, label, ref){
         )
       })
       
-      onclick("buttom", if (!is_page(ref)) change_page(ref))
+      #onclick("buttom", if (!is_page(ref)) change_page(ref))
       
     }
   )
